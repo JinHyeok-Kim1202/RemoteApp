@@ -1,0 +1,9 @@
+﻿*.vs
+*.aps
+*.user
+*.exp
+*.pdb
+*.ilk
+*.dumps
+lib/
+x64/
